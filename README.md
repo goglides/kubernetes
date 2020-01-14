@@ -12,7 +12,7 @@ Create Kubernetes using Kubeadm:
 https://youtu.be/O-Rkk6_VX6I
 
 
-## Best practices:
+## Some Blogs:
 SSL Certificates using Google Managed Certificate on GKE: 
 https://medium.com/goglides/ssl-certificates-using-google-managed-certificate-on-gke-c4bc43f5cbf2
 
